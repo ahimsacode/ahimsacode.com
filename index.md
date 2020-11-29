@@ -1,3 +1,1 @@
-# Welcome to the ahimsacode developer learning blog
-
 I'm glad you are here. I plan to use this space to blog about my experiences (re)learning to be a developer. It may also just end up being an abandoned project used just as a learning experience. We'll see...
