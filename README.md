@@ -1,1 +1,1 @@
-# ahimsacode.github.io
+# ahimsacode-blog
